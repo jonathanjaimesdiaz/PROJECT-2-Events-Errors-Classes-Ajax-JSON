@@ -13,10 +13,5 @@ When the page loads, the application reads an initial list of people from a JSON
 - Input validation for all Person properties before adding to the array
 - Re-rendering the display when the array is updated
 
-## Files
-- `index.html` — page structure, display area, and form
-- `[your-js-file].js` — Person class definition and application logic
-- `[your-json-file].json` — initial Person data loaded on page start
-
 ## How to Run
 1. Copy the code and paste it. 
