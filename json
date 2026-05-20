@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Morgan Pacino",
+		"birthDate": "1999",
+		"address": "321 Nos St",
+		"occupation": "CyberSecurity"
+	},
+	{
+		"name": "Robert Firth",
+		"birthDate": "1995",
+		"address": "654 Tree St",
+		"occupation": "Flowerist"
+	},
+	{
+		"name": "Rock Smith",
+		"birthDate": "2000",
+		"address": "987 Lambo Rd",
+		"occupation": "Teacher"
+	},
+	{
+		"name": "Jimmy Dream",
+		"birthDate": "2005",
+		"address": "Hours In Silence Rd",
+		"occupation": "Music Artist"
+	},
+	{
+		"name": "Scott Him",
+		"birthDate": "2010",
+		"address": "Fiar Trade St",
+		"occupation": "Banker"
+	}
+]
